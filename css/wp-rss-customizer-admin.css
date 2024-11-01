@@ -1,0 +1,27 @@
+/*********************META BOX****************/
+#wrc_options, #wrc_output {
+	background: #4DB6AC;
+	color: #fff;
+}
+
+/**************ELEMENT***************/
+.wrc-label {
+	padding: 5px 5px 5px 0;
+	display: inline-block;
+	font-weight: bold;
+	line-height: 27px;
+	text-transform: uppercase;
+}
+
+.wrc-label-child {
+	padding: 5px 5px 5px 0;
+	display: inline-block;
+}
+
+#postbox-container-1 .wrc-label {
+	display: block;
+}
+
+.select2-container .select2-choice > .select2-chosen {
+	line-height: 27px;
+}

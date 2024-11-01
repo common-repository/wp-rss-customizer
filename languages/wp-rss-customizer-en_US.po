@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP RSS CUSTOMIZER\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Apr 21 2016 11:14:10 GMT+0700 (SE Asia Standard Time)\n"
+"PO-Revision-Date: Mon Apr 25 2016 15:44:30 GMT+0700 (SE Asia Standard Time)\n"
+"Last-Translator: admin <toidoi_tiamo@yahoo.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "WP RSS CUSTOMIZER"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create and custom your rss feeds, json easily for your wordpress site"
+msgstr ""
+
+#. Author of the plugin
+msgid "Cuong Nguyen and Andy Ha"
+msgstr ""
+
+#: ../wp-rss-customizer.php:235
+msgid "Add Ons"
+msgstr ""
+
+#: ../wp-rss-customizer.php:247
+msgid "Choose addon to generate rss"
+msgstr ""
+
+#: ../wp-rss-customizer.php:254
+msgid "OutPut"
+msgstr ""
+
+#: ../wp-rss-customizer.php:262
+msgid "Cache Time"
+msgstr ""
+
+#: ../wp-rss-customizer.php:266
+msgid "Set time for cache of rss follow minute"
+msgstr ""
+
+#: ../wp-rss-customizer.php:270
+msgid "Output format"
+msgstr ""
+
+#: ../wp-rss-customizer.php:274
+msgid ""
+"Default out put feed type, you can change output by add http://yoursite."
+"com/rss/example-feed/[rss2|rss|rdf|atom|json]"
+msgstr ""
+
+#: ../wp-rss-customizer.php:276 ../includes/functions.php:208
+msgid "RSS 2.0"
+msgstr ""
+
+#: ../wp-rss-customizer.php:277
+msgid "RSS 1.0 "
+msgstr ""
+
+#: ../wp-rss-customizer.php:278 ../includes/functions.php:210
+msgid "RDF"
+msgstr ""
+
+#: ../wp-rss-customizer.php:279 ../includes/functions.php:207
+msgid "ATOM"
+msgstr ""
+
+#: ../wp-rss-customizer.php:280 ../includes/functions.php:211
+msgid "JSON"
+msgstr ""
+
+#: ../wp-rss-customizer.php:287 ../wp-rss-customizer.php:329
+msgid "Options"
+msgstr ""
+
+#: ../wp-rss-customizer.php:295
+msgid "Order By"
+msgstr ""
+
+#: ../wp-rss-customizer.php:299
+msgid "Order your feed by"
+msgstr ""
+
+#: ../wp-rss-customizer.php:301 ../wp-rss-customizer.php:343
+msgid "Date"
+msgstr ""
+
+#: ../wp-rss-customizer.php:302 ../wp-rss-customizer.php:344
+msgid "Title"
+msgstr ""
+
+#: ../wp-rss-customizer.php:307 ../wp-rss-customizer.php:349
+msgid "Show out"
+msgstr ""
+
+#: ../wp-rss-customizer.php:311 ../wp-rss-customizer.php:353
+msgid "Description of feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:313 ../wp-rss-customizer.php:355
+msgid "Content"
+msgstr ""
+
+#: ../wp-rss-customizer.php:314 ../wp-rss-customizer.php:356
+msgid "Excerpt"
+msgstr ""
+
+#: ../wp-rss-customizer.php:319 ../wp-rss-customizer.php:369
+msgid "Show image"
+msgstr ""
+
+#: ../wp-rss-customizer.php:323 ../wp-rss-customizer.php:373
+msgid "Show image in feed item"
+msgstr ""
+
+#: ../wp-rss-customizer.php:337
+msgid "Order By:"
+msgstr ""
+
+#: ../wp-rss-customizer.php:361
+msgid "Description length limit"
+msgstr ""
+
+#: ../wp-rss-customizer.php:365
+msgid "The length limit of descriptions of feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:377
+msgid "Exclude Author"
+msgstr ""
+
+#: ../wp-rss-customizer.php:381
+msgid "Exclude item of choosed Author"
+msgstr ""
+
+#: ../wp-rss-customizer.php:386
+msgid "Exclude Category"
+msgstr ""
+
+#: ../wp-rss-customizer.php:390
+msgid "Exclude item of choosed category"
+msgstr ""
+
+#: ../wp-rss-customizer.php:402
+msgid "Feed Burner Url"
+msgstr ""
+
+#: ../wp-rss-customizer.php:410
+msgid "URL "
+msgstr ""
+
+#: ../wp-rss-customizer.php:414
+msgid "Feed burnner link. "
+msgstr ""
+
+#: ../wp-rss-customizer.php:475
+msgctxt "Post Type General Name"
+msgid "RSS Feeds"
+msgstr ""
+
+#: ../wp-rss-customizer.php:476
+msgctxt "Post Type Singular Name"
+msgid "RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:477 ../wp-rss-customizer.php:508
+msgid "RSS Customizer"
+msgstr ""
+
+#: ../wp-rss-customizer.php:478
+msgid "RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:479
+msgid "RSS Feed Archives"
+msgstr ""
+
+#: ../wp-rss-customizer.php:480
+msgid "Parent RSS Feed:"
+msgstr ""
+
+#: ../wp-rss-customizer.php:481
+msgid "All RSS Feeds"
+msgstr ""
+
+#: ../wp-rss-customizer.php:482 ../wp-rss-customizer.php:483
+msgid "Add New RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:484
+msgid "New RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:485
+msgid "Edit RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:486
+msgid "Update RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:487
+msgid "View RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:488
+msgid "Search RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:489
+msgid "Not found"
+msgstr ""
+
+#: ../wp-rss-customizer.php:490
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../wp-rss-customizer.php:491
+msgid "Featured Image"
+msgstr ""
+
+#: ../wp-rss-customizer.php:492
+msgid "Set featured image"
+msgstr ""
+
+#: ../wp-rss-customizer.php:493
+msgid "Remove featured image"
+msgstr ""
+
+#: ../wp-rss-customizer.php:494
+msgid "Use as featured image"
+msgstr ""
+
+#: ../wp-rss-customizer.php:495
+msgid "Insert into RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:496
+msgid "Uploaded to this RSS Feed"
+msgstr ""
+
+#: ../wp-rss-customizer.php:497
+msgid "RSS Feeds list"
+msgstr ""
+
+#: ../wp-rss-customizer.php:498
+msgid "RSS Feeds list navigation"
+msgstr ""
+
+#: ../wp-rss-customizer.php:499
+msgid "Filter RSS Feeds list"
+msgstr ""
+
+#: ../wp-rss-customizer.php:509
+msgid "Create Custom RSS Feeds for your Wordpress site"
+msgstr ""
+
+#: ../wp-rss-customizer.php:537 ../wp-rss-customizer.php:537
+msgid "Settings"
+msgstr ""
+
+#: ../wp-rss-customizer.php:561
+msgid "RSS Feed name"
+msgstr ""
+
+#: ../includes/functions.php:209
+msgid "RSS 1.0"
+msgstr ""
+
+#: ../includes/functions.php:215
+msgid "Feed Burner"
+msgstr ""
+
+#: ../templates/list-rss.php:18
+msgid "LIST RSS"
+msgstr ""
+
+#: ../views/html-admin-setting.php:25
+msgid "RSS Settings"
+msgstr ""
+
+#: ../views/html-admin-setting.php:30
+msgid "Disable Wordpress RSS"
+msgstr ""
+
+#: ../views/html-admin-setting.php:38
+msgid "Get No title records"
+msgstr ""
+
+#: ../views/html-admin-setting.php:46
+msgid "Slug"
+msgstr ""
+
+#: ../views/html-admin-setting.php:50
+msgid ""
+"After change SLUG, you have to change Permalinks of Wordpress by go to: "
+"Settings->Permalinks, then press \"Save changes\" button"
+msgstr ""
